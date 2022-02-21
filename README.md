@@ -29,7 +29,7 @@
 
 <p>&nbsp;<img align="center" width="52%" src="https://github-readme-stats.vercel.app/api?username=samuelsankys&show_icons=true&locale=en" alt="samuelsankys" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelsankys&" alt="samuelsankys" /></p>
+<p><img style="margin-rigth:auto; margin-left:auto" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelsankys&" alt="samuelsankys" /></p>
 
 <!--
 **samuelsankys/samuelsankys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
