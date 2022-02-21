@@ -6,11 +6,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/samuelsankys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samuelsankys" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/samuel-santana-61aa39b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-santana-61aa39b2" height="30" width="40" /></a>
-<a href="https://fb.com/samuel.sankys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samuel.sankys" height="30" width="40" /></a>
-<a href="https://instagram.com/samuel.sankys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samuel.sankys" height="30" width="40" /></a>
-<a href="https://medium.com/@samuelsankys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@samuelsankys" height="30" width="40" /></a>
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-santana-61aa39b2/)
+ [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samuel.sankys/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssankys3@gmail.com)
+[![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:samuel_sankys@hotmail.com)
+[![GitLab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/SamuelSantana)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
+)](https://medium.com/@samuelsankys)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
