@@ -3,8 +3,8 @@
 
 ## Glad to see you here!  <img src="https://komarev.com/ghpvc/?username=samuelsankys&label=Profile%20views&color=0e75b6&style=flat" alt="samuelsankys" />
 
-welcome to my space!
-I'm Samuel, Fullstack developer from Brazil 🇧🇷. 
+<p>welcome to my space!</p>
+<p>I'm Samuel, Fullstack developer from Brazil 🇧🇷. </p>
 
 - 🔭 I’m currently working on something cool 😜
 - 🌱 I’m currently learning Hexagonal architecture and Java
@@ -30,7 +30,7 @@ No activity tracked
 
 <p>&nbsp;<img align="center" width="52%" src="https://github-readme-stats.vercel.app/api?username=samuelsankys&show_icons=true&locale=en" alt="samuelsankys" /></p>
 
-<p><img style="margin-rigth:auto; margin-left:auto" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelsankys&" alt="samuelsankys" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelsankys&" alt="samuelsankys" /></p>
 
 ### Where to find me
 
